@@ -1,9 +1,9 @@
 # Project Name: Git Fit
 
 **Team Members:**
-Jeanette Leyv
-Kaeden O'Meara
-Kao Saelor
+Jeanette Leyv,
+Kaeden O'Meara,
+Kao Saelor,
 Coriana Williams
 
 **Description:**
