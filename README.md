@@ -1,4 +1,4 @@
-# Project Name: [Insert project name here]
+# Project Name: Git Fit
 
 **Team Members:**
 Jeanette Leyv
